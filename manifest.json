@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name":"Show Active Tab Address",
+    "description":"Show the user the address of the active tab",
+    "version":"1.0",
+    "icons":{"128":"icons/icon_128.png"},
+    "action":{
+        "default_icon":"icons/icon.png",
+        "default_popup":"popup/popup.html"
+
+    },
+    "permissions":["tabs"]
+
+
+}
